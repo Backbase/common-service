@@ -1,0 +1,12 @@
+[
+  {
+    "externalId": "12345678",
+    "externalProductId": "productId",
+    "externalProductTypeId": "externalProduct1"
+  },
+  {
+    "externalId": "12345679",
+    "externalProductId": "productId1",
+    "externalProductTypeId": "externalProduct2"
+  }
+]

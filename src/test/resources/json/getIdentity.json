@@ -1,0 +1,19 @@
+{
+  "externalId": null,
+  "internalUserId": null,
+  "idpUserId": null,
+  "idpIssuer": null,
+  "legalEntityInternalId": null,
+  "fullName": "abc",
+  "preferredLanguage": null,
+  "emailAddress": null,
+  "mobileNumber": "1231234567",
+  "status": null,
+  "emailVerified": null,
+  "createdDate": null,
+  "requiredActions": null,
+  "givenName": null,
+  "familyName": null,
+  "attributes": null,
+  "additions": null
+}
